@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!_vercel/insights(?:/|$)).*)",
+      "destination": "https://pick2app.floot.app/$1"
+    }
+  ]
+}
